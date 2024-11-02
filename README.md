@@ -23,16 +23,19 @@
 # 📊 GitHub Stats:
 <div>
 <center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krosta12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Статистика языков">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krosta12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Статистика языков"></p>
 </center>
 
 <center>
+    <p>
     <img src="https://github-readme-stats.vercel.app/api?username=krosta12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="Статистика GitHub">
-</center><br/>
+</p></center><br/>
 
 <center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krosta12&theme=shadow_blue&hide_border=false" alt="Статистика стриков">
-</center><br/></div>
+    <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krosta12&theme=shadow_blue&hide_border=false" alt="Статистика стриков"></p>
+</center><br/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krosta12&icon=0&color=0)](https://visitcount.itsvg.in)
